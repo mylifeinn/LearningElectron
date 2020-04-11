@@ -1,2 +1,2 @@
-# JLearningElectron
+# LearningElectron
 javascript
